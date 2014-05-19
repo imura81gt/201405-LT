@@ -51,6 +51,8 @@
 </br>
 Read Replicaを用意するのがいい…らしい
 
+http://www.slideshare.net/AmazonWebServicesJapan/aws-for-startup20130712public
+
 ---
 
 ## slaveが無い
